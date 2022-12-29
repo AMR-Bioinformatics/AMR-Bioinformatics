@@ -7,8 +7,11 @@ The study of AMR genomics involves the use of genomic techniques, such as DNA se
 
 On this page, you will find resources and information related to the genomics of antimicrobial resistance, including:
 
-Overviews of the genetics and molecular mechanisms of AMR
-Lists of commonly studied AMR genes and mutations
-Tools and databases for analyzing AMR genomic data
-Case studies and examples of how AMR genomics has been used to understand and combat antimicrobial resistance
-We hope that this page will serve as a valuable resource for those interested in AMR genomics and the fight against antimicrobial resistance. If you have any questions or suggestions for additional content to be included on this page, please feel free to contact us.
+* Overviews of the genetics and molecular mechanisms of AMR
+* Lists of commonly studied AMR genes and mutations
+* Tools and databases for analyzing AMR genomic data
+* Case studies and examples of how AMR genomics has been used to understand and combat antimicrobial resistance
+
+We hope that this page will serve as a valuable resource for those interested in AMR genomics and the fight against antimicrobial resistance. 
+
+If you have any questions or suggestions for additional content to be included on this page, please feel free to contact us.
